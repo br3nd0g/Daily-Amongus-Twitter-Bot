@@ -3,6 +3,8 @@ A twitter bot which posts an image with an auto generated sentence (related to t
 This bot was mainly designed as a joke, although it was also to test making a twitter bot, and editing images using python.
 It really isn't anything interesting or complicated, i just found it fun and interesting to make/use :)
 
+Check it out [here](https://twitter.com/amongusdaily).
+
 ## What I Learnt
 I learnt how to use the Tweepy library, as well as the Pillow library. Funnily enough, the hardest part of this was using the Twitter developer portal, which wasn't hard persay, but none the less it was annoying to use, in my opinion.
 
